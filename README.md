@@ -9,3 +9,5 @@
 def add(x, y):
     return x + y
 ```
+
+![текст на случай если нет картинки](https://i.imgur.com/L9ZftiD.jpg)
