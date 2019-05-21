@@ -5,10 +5,9 @@
 | test_set_game.py  | Runs test on  set_game.py|
 | test_stictactoe.py  | Runs test on  tictactoe.py|
 
-```python
-
-def add(x, y):
-    return x + y
+To install package type:
+```console
+sudo pip install git+https://github.com/KznRkjp/tests.git
 ```
 ### Travis Cl test build result:
 
