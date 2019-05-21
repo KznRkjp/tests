@@ -1,8 +1,9 @@
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| file_name     | description  |
+| ------------- |-------------:| 
+| set_game.py      | Game of SET |
+| tictactoe.py     | Tictactoe game|  
+| test_set_game.py  | Runs test on  set_game.py|
+| test_stictactoe.py  | Runs test on  tictactoe.py|
 
 ```python
 
