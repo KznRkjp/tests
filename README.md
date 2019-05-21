@@ -10,6 +10,6 @@
 def add(x, y):
     return x + y
 ```
-"###Travis Cl test build result:"
-###
+### Travis Cl test build result:
+
 [![Build Status](https://travis-ci.org/KznRkjp/tests.svg?branch=master)](https://travis-ci.org/KznRkjp/tests)
