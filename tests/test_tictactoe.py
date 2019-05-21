@@ -1,5 +1,5 @@
 import unittest
-import /tests/tictactoe
+from application.app.folder.file import tictactoe
 
 board = [[2, 2, 0], [1, 0, 2], [1, 1, 0]] #все ок, игра идет
 board_x = [[1, 2, 2], [1, 0, 2], [1, 1, 0]] #все ок, выйграл Х

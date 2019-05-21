@@ -1,5 +1,5 @@
-import /tests/set_game, pytest
-
+import pytest
+from application.app.folder.file import set_game
 card_set_true_1 = []
 card_set_true_1.append(set_game.Card(2,'DIAMOND','SOLID','PURPLE'))
 card_set_true_1.append(set_game.Card(2,'DIAMOND','SOLID','PURPLE'))
