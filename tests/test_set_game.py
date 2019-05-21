@@ -1,4 +1,4 @@
-import tests/set_game, pytest
+import /tests/set_game, pytest
 
 card_set_true_1 = []
 card_set_true_1.append(set_game.Card(2,'DIAMOND','SOLID','PURPLE'))
